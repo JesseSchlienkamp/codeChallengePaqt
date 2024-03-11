@@ -1,7 +1,7 @@
 const bewoners = [
     { id: 1, name: "John Doe", addres: "Australielaan 11", perceel: "A", beschikkingID: 1 },
     { id: 2, name: "Jane Smith", addres: "Australielaan 13", perceel: "B", beschikkingID: 2 },
-    { id: 2, name: "Joe Smith", addres: "Australielaan 13", perceel: "B", beschikkingID: null }
+    { id: 3, name: "Joe Smith", addres: "Australielaan 13", perceel: "B", beschikkingID: null }
   ];
   
   const beschikkingen = [
